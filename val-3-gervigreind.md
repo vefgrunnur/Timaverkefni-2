@@ -1,8 +1,8 @@
 <nav> 
-    <a href="https://www.visindavefur.is/svar.php?id=5702" target="_blank">Er líklegt að mönnum takist að framleiða greind vélmenni?</a>
-    <a href="https://www.visindavefur.is/svar.php?id=5548" target="_blank">Hvað er yrki eða botti?</a>
-    <a href="https://www.visindavefur.is/svar.php?id=5645" target="_blank">Til hvers eru gervitauganet notuð og hvernig eru þau ólík raunverulegum tauganetum?</a>
-    <a href="https://www.ru.is/td/cadia/" target="_blank">Cadia: Gervigreindarsetur HR</a>
+    <a href="https://www.visindavefur.is/svar.php?id=5702">Er líklegt að mönnum takist að framleiða greind vélmenni?</a>
+    <a href="https://www.visindavefur.is/svar.php?id=5548">Hvað er yrki eða botti?</a>
+    <a href="https://www.visindavefur.is/svar.php?id=5645">Til hvers eru gervitauganet notuð og hvernig eru þau ólík raunverulegum tauganetum?</a>
+    <a href="https://www.ru.is/td/cadia/">Cadia: Gervigreindarsetur HR</a>
 </nav>
 <h1>Hvað er gervigreind?</h1>
 <p>Orðið gervigreind hefur verið notað á ýmsa vegu í tímans rás, en í daglegu tali nú á dögum er yfirleitt átt við það að tölva geti skynjað og skilið umhverfi sitt og síðan tekið eigin ákvarðanir á svipaðan hátt og manneskjur. Upphaf gervigreindar sem rannsóknarverkefnis má rekja til ráðstefnu sem haldin var í Bandaríkjunum árið 1957 þar sem margir helstu frumkvöðlar í tölvunarfræðum komu saman og settu fram markmið og aðferðir um hvernig hægt væri að þróa gervigreind. Þetta hefur reynst hið erfiðasta viðfangsefni og spádómar um hjálpsöm (eða illgjörn) vélmenni með mikla gervigreind hafa ekki ræst. Þrátt fyrir það hafa miklar framfarir orðið í gervigreind á þessum tima, sem ef til vill bendir til þess að spádómarnir hafi verið óskhyggja frekar en raunveruleg markmið.

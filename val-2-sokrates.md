@@ -1,9 +1,9 @@
 
 <nav>
-    <a href="https://www.visindavefur.is/svar.php?id=561" target="_blank">Hvenær var Sókrates uppi og hverjir voru foreldrar hans?</a>
-    <a href="https://www.visindavefur.is/svar.php?id=7041" target="_blank">Hvernig er dæmigerð sókratísk samræða?</a>
-    <a href="https://www.visindavefur.is/svar.php?id=5263" target="_blank">Hvernig er vitað að hugmyndirnar sem Sókrates heldur fram í samræðum Platons tilheyri Platoni en ekki Sókratesi?</a>
-    <a href="https://www.visindavefur.is/svar.php?id=4361" target="_blank">Hver var Aristóteles?</a>
+    <a href="https://www.visindavefur.is/svar.php?id=561">Hvenær var Sókrates uppi og hverjir voru foreldrar hans?</a>
+    <a href="https://www.visindavefur.is/svar.php?id=7041">Hvernig er dæmigerð sókratísk samræða?</a>
+    <a href="https://www.visindavefur.is/svar.php?id=5263">Hvernig er vitað að hugmyndirnar sem Sókrates heldur fram í samræðum Platons tilheyri Platoni en ekki Sókratesi?</a>
+    <a href="https://www.visindavefur.is/svar.php?id=4361">Hver var Aristóteles?</a>
 </nav>
 <h1>Var Sókrates örugglega til?</h1>
 <p>Já, <a href="/svar.php?id=561" title="Hvenær var Sókrates uppi og hverjir voru foreldrar hans?" alt="Hvenær var Sókrates uppi og hverjir voru foreldrar hans?" target="_self">Sókrates</a> var nær örugglega til og almennt efast fræðimenn ekki um það. Sókrates fæddist í Aþenu 469 f.Kr. og lést þar árið 399 f.Kr. Hann samdi sjálfur engin rit og því getum við ekki lesið hans eigin orð en um hann er þó fjallað í samtímaheimildum, það er að segja í heimildum frá hans eigin tíma eftir samtímamenn hans.

@@ -1,8 +1,8 @@
 <nav>
-    <a href="https://www.visindavefur.is/svar.php?id=60196" target="_blank">Hver var Nikulás Kópernikus?</a>
-    <a href="https://www.visindavefur.is/svar.php?id=7097" target="_blank">Hvernig varð sólkerfið til?</a>
-    <a href="https://www.visindavefur.is/svar.php?id=5777" target="_blank">Af hverju lét Júlíus Sesar árið byrja á janúar?</a>
-    <a href="https://www.britannica.com/biography/Nicolaus-Copernicus" target="_blank">Encyclopædia Britannica: Nicolaus Copernicus</a>
+    <a href="https://www.visindavefur.is/svar.php?id=60196">Hver var Nikulás Kópernikus?</a>
+    <a href="https://www.visindavefur.is/svar.php?id=7097">Hvernig varð sólkerfið til?</a>
+    <a href="https://www.visindavefur.is/svar.php?id=5777">Af hverju lét Júlíus Sesar árið byrja á janúar?</a>
+    <a href="https://www.britannica.com/biography/Nicolaus-Copernicus">Encyclopædia Britannica: Nicolaus Copernicus</a>
 </nav>
 <h1>Nikulás Kópernikus</h1>
 
