@@ -12,7 +12,7 @@ Uppsetning þín er að öðru leyti frjáls og miðast við efnisval þitt.
 
 #### Efnisyfirlit (_nav_), 
 
-- skjástærð 20rem til 37.5rem
+- skjástærð 0rem til 37.5rem
    - `<nav>` Í efnisyfirliti eru 4 tenglar, notaðu css skipunina `flex-flow: column` 
 - skjástærð 37.5rem + 
    - `<nav>` Í efnisyfirliti eru 4 tenglar, notaðu css skipunina `flex-flow: row wrap` 
