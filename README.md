@@ -17,7 +17,7 @@ Uppsetning þín er að öðru leyti frjáls og miðast við efnisval þitt.
 - skjástærð 37.5rem + 
    - `<nav>` Í efnisyfirliti eru 4 tenglar, notaðu css skipunina `flex-flow: row wrap` 
 
-#### Farsímaskjáir (_mobile phone screen_), skjástærð *20rem til 48rem* 
+#### Farsímaskjáir (_mobile phone screen_), skjástærð *0rem til 48rem* 
 
 - `<header>` Fyrirsögn
 - `<main>` (_utanum article og aside_)
