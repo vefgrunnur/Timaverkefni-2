@@ -41,9 +41,9 @@ Uppsetning þín er að öðru leyti frjáls og miðast við efnisval þitt.
 
 ### Námsmat
 
--   3% Farsímar: 20rem - 37.5rem
+-   3% Farsímar: 0rem - 37.5rem
 -   3% Spjaldtölvur: 48rem - 60rem
--   3% Fartölvur: 60rem-80rem
+-   3% Fartölvur: 80rem (_max-width_)
 -   3% Efnisorð í _'Aside'_
 -   3% Tenglar í efnisyfirliti og heimildir í footer
 -   5% Æfingaverkefni 
