@@ -28,7 +28,7 @@ Formálinn er annars í samræmi við þau sjónarmið Osianders sem lýst var h
 <br>
 Nikulás Kópernikus lést 24. maí árið 1543, þá sjötugur að aldri.
 </p>
-<h4>Höfundar</h4>
+<h4>Höfundar:</h4>
 <p>
 Þorsteinn Vilhjálmsson (1940-2025) <br>
 prófessor emeritus, ritstjóri Vísindavefsins 2000-2010 og ritstjóri Evrópuvefsins 2011
