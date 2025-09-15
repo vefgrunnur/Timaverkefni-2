@@ -23,7 +23,7 @@ Uppsetning þín er að öðru leyti frjáls og miðast við efnisval þitt.
 - `<main>` (_utanum article og aside_)
 - `<article>` Meginmálstextinn kemur hér
 - `<aside>` Efnisorð með _flex-flow: row wrap_ og með bakgrunnslit eða border
-- `<footer>` Heimildaskrá + &copy; 2025 VEFÞ2VG, tímaverkfni 2. + nafnið þitt
+- `<footer>` Heimildaskrá + &copy; 2025 VEFÞ1VG, tímaverkfni 2. + nafnið þitt
 
 #### Spjaldtölvur (*48rem +*)
 
