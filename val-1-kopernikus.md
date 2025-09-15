@@ -27,7 +27,9 @@ Fyrsta prentaða eintakið af bókinni miklu <cite>Um snúninga himintunglanna</
 Formálinn er annars í samræmi við þau sjónarmið Osianders sem lýst var hér á undan. Vakti hann því í fyrstu miklar deilur um það, hvort Kópernikus hefði sjálfur trúað á kenningar sínar sem lýsingu á raunveruleikanum eður ei. Þær  deilur hjöðnuðu þó síðar þegar ljóst varð að Kópernikus hafði alls ekki skrifað þennan  formála sjálfur, heldur var hann verk Osianders sem hefur þar með tryggt sér allsérstæðan sess í hugmyndasögunni, þótt hann hafi sjálfsagt viljað vel.
 <br>
 Nikulás Kópernikus lést 24. maí árið 1543, þá sjötugur að aldri.
-</p><p>
+</p>
+<h4>Höfundar</h4>
+<p>
 Þorsteinn Vilhjálmsson (1940-2025) <br>
 prófessor emeritus, ritstjóri Vísindavefsins 2000-2010 og ritstjóri Evrópuvefsins 2011
 </p><p>
@@ -35,7 +37,7 @@ prófessor emeritus, ritstjóri Vísindavefsins 2000-2010 og ritstjóri Evrópuv
 M.Sc. í hugbúnaðarverkfræði og fyrrverandi starfsmaður Vísindavefsins
 </p><p>
 <!-- Heimildir úr https://www.visindavefur.is/svar.php?id=60196 -->
-<strong>Heimildir:</strong>
+<h4>Heimildir:</h4>
 <ul>
     <li>Kópernikus, Nikulás, 1985. <cite>Complete Works, Vol. 3: Minor Works.</cite> Ensk þýðing Edward Rosen með Erna Hilfstein. London: MacMillan.</li>
     <li>Kópernikus, Nikulás, 1992. <cite>Complete Works, Vol. 2: On the Revolutions.</cite> Ensk þýðing og athugasemdir eftir Edward Rosen, nýr inngangur eftir Erna Hilfstein. London: MacMillan og Polish Science Publications. [Endurprentun á útgáfu frá 1978].</li>
