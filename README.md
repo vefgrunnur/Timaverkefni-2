@@ -19,7 +19,6 @@ Uppsetning þín er að öðru leyti frjáls og miðast við efnisval þitt.
 
 #### Farsímaskjáir (_mobile phone screen_), skjástærð *20rem til 48rem* 
 
-- `<nav>` Efnisyfirlit
 - `<header>` Fyrirsögn
 - `<main>` (_utanum article og aside_)
 - `<article>` Meginmálstextinn kemur hér
