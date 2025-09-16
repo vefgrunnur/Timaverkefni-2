@@ -30,7 +30,7 @@ Uppsetning þín er að öðru leyti frjáls og miðast við efnisval þitt.
 - `<nav>` 
 - `<header>` 
 - `<main>`
-   - `<article>` `<aside>` hlið við hlið í hlutfallinu 3fr 1fr
+   - `<aside>` `<article>` hlið við hlið í hlutfallinu **1fr 3fr**
 - `<footer>`
 
 #### Fartölvur og borðtölvur
